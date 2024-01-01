@@ -1,6 +1,8 @@
 # airflow-kesehatan
 Proses data .CSV untuk mendapatkan nilai COGS, COGAS, Net Sales, Gross Profit, dan Ending Inventory
 
+![Flowchart-airflow-sehat](https://github.com/farhanfHARAHAP/airflow-kesehatan/assets/91046795/53090e26-8f4f-4cd9-a020-35c3a7b48779)
+
 ## Requirement
 - Windows 10
 - WSL Ubuntu
